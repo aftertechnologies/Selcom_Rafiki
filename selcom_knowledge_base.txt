@@ -1,0 +1,256 @@
+# Selcom Pesa Knowledge Base
+
+## Basic Information
+
+### What is Selcom Pesa?
+**English:** Selcom Pesa is the first digital banking App in Tanzania offering the lowest charges in the market, up to 60% cheaper compared to mobile money providers and banks. The highest charges for sending money or Lipa being TZS 1,250 only. Selcom Pesa offers transaction bundles that allow you to send money for FREE when you subscribe.
+
+**Swahili:** Selcom Pesa ni programu ya kwanza ya benki ya kidijitali nchini Tanzania inayotoa ada za chini kabisa sokoni, hadi 60% za bei nafuu ikilinganishwa na watoa huduma za pesa za simu na benki. Ada za juu zaidi za kutuma pesa au Lipa ni TZS 1,250 tu. Selcom Pesa inatoa vifurushi vya miamala vinavyokuruhusu kutuma pesa BURE unapojiandikisha.
+
+---
+
+### How to Download Selcom Pesa App
+**English:** Download and install the Selcom Pesa app from the App Store for iOS devices or the Play Store for Android devices.
+
+**Swahili:** Pakua na usakinishe programu ya Selcom Pesa kutoka App Store kwa vifaa vya iOS au Play Store kwa vifaa vya Android.
+
+---
+
+### Language Support
+**English:** Yes, Selcom Pesa offers bilingual support. You can choose your preferred language (English or Kiswahili) during the onboarding process for a personalized experience.
+
+**Swahili:** Ndiyo, Selcom Pesa inatoa msaada wa lugha mbili. Unaweza kuchagua lugha unayopendelea (Kiingereza au Kiswahili) wakati wa mchakato wa kujiandikisha kwa uzoefu wa kibinafsi.
+
+---
+
+## Account Registration
+
+### How to Register for Selcom Pesa Account
+**English:** Download and install the Selcom Pesa app from App Store or Play Store. Select language. Input your phone number, you will receive an OTP, fill it in. Then input your NIDA number. Follow the prompts for biometric verification to complete the registration process.
+
+**Swahili:** Pakua na usakinishe programu ya Selcom Pesa kutoka App Store au Play Store. Chagua lugha. Ingiza namba yako ya simu, utapokea OTP, ijaze. Kisha ingiza namba yako ya NIDA. Fuata maagizo ya uthibitishaji wa kibayometriki ili kukamilisha mchakato wa usajili.
+
+### Phone Number as Account Number
+**English:** Yes, your mobile number can be used as your Selcom Pesa bank account number. When sending money to Selcom Pesa from your mobile money/Bank app or USSD, go to Send to Banks, select Selcom Microfinance Bank, input your registered Selcom Pesa mobile number, then amount, and confirm to complete the transaction.
+
+### Referral Code Entry
+**English:** Enter the referrer's registered Selcom Pesa phone number in the Referral number/Agent code field during the last stage of registration.
+
+---
+
+## Security Features
+
+### Account Security
+**English:** Selcom Pesa uses advanced encryption to protect your data and transactions. For login security, access your account using Face ID, a 4-digit PIN, or a 6-digit PIN.
+
+### Biometric Authentication
+**English:** Yes, Selcom Pesa supports biometric authentication, such as Face ID or fingerprint recognition for secure access.
+
+### Data Protection
+**English:** Selcom Pesa uses advanced encryption to ensure your data and transactions are protected. Selcom Pesa does not share user data with third parties.
+
+---
+
+## Money Transfer Services
+
+### Send Money Options
+**English:** Navigate to the Send Money section on your app and select one of the available recipient channels: Selcom to Selcom, Send to Banks, Send to Mobile Money, Send to Cards, International transfer, Send to Many.
+
+### International Transfers
+**English:** Yes, you can send money to Safaricom Kenya via Send Money > International Transfers.
+
+### Receiving Money
+**English:** You can receive money from Mobile money, Domestic banks, International banks, or other Selcom Pesa accounts.
+
+### 5 kwa Jero Offer
+**English:** The '5 kwa Jero' offer allows you to make 5 FREE transactions or send money to banks, mobile money, or merchant payment/TanQR for a subscription fee of only TZS 500 daily.
+
+---
+
+## Payment Services
+
+### Merchant Payments
+**English:** Merchant payments using TanQR or Lipa Number, Airtime, Electricity, Government GePG payments, Internet subscriptions, TV subscriptions, Investment funds, Insurance, Betting, and Online subscriptions with Selcom Pesa Virtual Mastercard.
+
+### Pay Merchants
+**English:** Pay merchants by scanning the merchant's TanQR code or entering their Lipa Number.
+
+### Merchant Registration
+**English:** Register for a Selcom Lipa Number linked to your Selcom Pesa account. Click the QR code on the Selcom Pesa home screen, select "Sign up to become a Selcom Lipa merchant," enter your TIN number and TIN date to complete registration. Share your Selcom Lipa QR with customers to pay from any mobile money/Bank App or USSD.
+
+### Pay-by-Link Feature
+**English:** 'Pay-by-link' allows Selcom Lipa merchants to collect payments remotely by sharing a generated URL link containing payment information. Customers can pay via Till/TanQR, debit card, or push USSD.
+
+---
+
+## Account Management
+
+### Multiple Balances
+**English:** Yes, manage your main account, savings (Kibubu), and rewards (Q/wikrewards) balances within the app.
+
+### View Balances
+**English:** Click on the circle next to each balance on the dashboard to view main, Kibubu, and Q/wikrewards balances.
+
+### Transaction History
+**English:** View transaction history via the 'Statements' section, filtering by transaction type or requesting a longer statement to your email.
+
+### Spending Tracking
+**English:** Use the 'Digest' feature for a detailed breakdown of your monthly spending. Budgeting tools allow you to view spend patterns via the spend graph, set spending limits, and monitor expenses.
+
+### Profile Picture Change
+**English:** Click the profile icon, go to View Profile > Edit > Camera icon next to profile picture > Select from avatar, camera, or gallery > Save.
+
+### Theme Change
+**English:** Yes, switch between dark and light mode by clicking the sun/moon icon.
+
+---
+
+## Cards and Virtual Services
+
+### Virtual Mastercard
+**English:** A virtual Mastercard is generated automatically upon successful registration with Selcom Pesa, usable for online shopping and subscriptions for free.
+
+### Virtual Card Fees
+**English:** Selcom Pesa virtual cards have zero transaction fees.
+
+### Physical Mastercard
+**English:** Visit any Selcom Experience Centre to obtain a physical Selcom Pesa Mastercard.
+
+### Link Physical Card
+**English:** Go to 'My Account,' pull down the cards displayed, select the physical card, click 'Link now,' scan the QR code on the back of the card or enter the numbers above the QR code, input the CVV (3 numbers on the white strip), and confirm. The cost of acquiring the card is TZS 25,000.
+
+### N-Card Top Up
+**English:** Yes, top up your N-card via Send Money > Send to Cards > Select card > Enter card number > Amount > Confirm.
+
+---
+
+## Customer Support
+
+### Contact Information
+**English:** Reach Selcom Pesa customer support via toll-free numbers 0800 714 888 or 0800 784 888, email help@selcom.net, or WhatsApp at +255 699 077 888. Support is available 24/7.
+
+**Swahili:** Wasiliana na huduma kwa wateja ya Selcom Pesa kupitia namba za bure 0800 714 888 au 0800 784 888, barua pepe help@selcom.net, au WhatsApp kwa +255 699 077 888. Msaada unapatikana 24/7.
+
+### Failed Transaction Reporting
+**English:** Report the incident via Selcom Customer Care WhatsApp at +255 699 077 998 for investigation and possible refund or reversal.
+
+### Refund Processing
+**English:** Most refunds are processed within 24 hours, depending on the transaction and provider.
+
+---
+
+## Troubleshooting
+
+### Fingerprint Scanning Issues
+**English:** Ensure you scan the correct hand's fingers, have ample light, fit fingertips in the scanner frame, keep your hand stable, and wait for capture.
+
+### Fingerprint Database Mismatch
+**English:** Ensure the NIDA number entered belongs to you and bears your personal details.
+
+### OTP Not Received
+**English:** Verify the phone number is active and the SIM/e-SIM is on. If issues persist, call 0800 714 888 or 0800 784 888.
+
+### Face Verification
+**English:** Follow on-screen instructions, ensuring your face is within the scanning round frame, and turn left, right, smile, and blink as prompted.
+
+---
+
+## Company Information
+
+### About Selcom Paytech Limited
+**English:** Selcom Paytech Limited is a leading Pan-African financial and payment services provider, offering electronic payment products and services across Sub-Saharan Africa, including digital, card, and card-less processing services for banking, insurance, government institutions, and more.
+
+### Headquarters Location
+**English:** Selcom's head office is at 8th Floor, Uhuru Heights, Bibi Titi Mohamed Road, Dar es Salaam, Tanzania.
+
+### Services Offered
+**English:** Services include Billers cash-assisted payment, Selcom Pay (Till/TanQR payment), Debit/Prepaid card issuing, Card payment acquiring, Selcom Card (closed-loop programs), Qwiksend (remittance hub), Mobile banking solutions, Agency banking, and E-commerce solutions.
+
+---
+
+## Business Solutions
+
+### Selcom Pay
+**English:** Selcom Pay is an integrated payment solution enabling merchants to accept digital payments through Till numbers and TanQR codes from all mobile wallets and banks in Tanzania.
+
+### Merchant Registration
+**English:** Complete the Selcom Pay Merchant Application Form and submit KYC documents. Upon approval, receive unique Till numbers and TanQR code. Initiate the request by emailing info@selcom.net.
+
+### Supported Payment Methods
+**English:** Mobile wallets (e.g., M-Pesa, Airtel Money), Bank transfers, Debit and credit cards, TanQR code payments, and Pay-by-link services.
+
+### International Compatibility
+**English:** Yes, Selcom Pay is compatible with major global card schemes, adheres to EMVCo standards, and is PCI-DSS certified.
+
+### System Integration
+**English:** Yes, Selcom Pay can post payment notifications to your ERP or accounting systems.
+
+---
+
+## Agent Services (Selcom Huduma)
+
+### What is Selcom Huduma
+**English:** Selcom Huduma is a platform allowing individuals to become agents (Wakala) and offer banking and payment services using POS devices, mobile apps, or USSD codes.
+
+### Become an Agent
+**English:** Submit a TIN Certificate and valid NIDA to become an agent.
+
+### Agent Services
+**English:** Cash deposits and withdrawals, Bill payments, Airtime top-ups, Statements and balance inquiries, Fund transfers to mobile money, banks, and other Lipa numbers.
+
+### Agent Access Methods
+**English:** Use the Selcom Huduma mobile app (available on Play Store and App Store), Selcom POS, or USSD code *150*50#.
+
+### Agent Benefits
+**English:** Earn commissions from transactions and service customers from different banks with a single Selcom float and device.
+
+### Agent Eligibility
+**English:** Retail shops, pharmacies, kiosks, and small business owners with a registered TIN or business ID.
+
+### Multi-Outlet Management
+**English:** Yes, access a centralized dashboard for managing multiple outlets under one master account.
+
+---
+
+## Technical Services
+
+### API Services
+**English:** Yes, Selcom provides APIs for collections, disbursements, card services, and mobile banking.
+
+### E-commerce Integration
+**English:** Yes, Selcom offers payment gateway solutions for online stores, accepting card, mobile wallet, and bank payments. Email info@selcom.net to start.
+
+### POS Devices
+**English:** Yes, Selcom offers smart POS devices for processing mobile money/Bank TanQR, scheme cards (Mastercard, VISA), and pay-by-link.
+
+### API Documentation
+**English:** Selcom provides public API documentation for developers to integrate seamlessly.
+
+---
+
+## Partnerships
+
+### Bank Partnerships
+**English:** Yes, Selcom works with banks for mobile banking, agency banking, card issuing, and mobile money integration.
+
+### Fintech Support
+**English:** Yes, Selcom supports fintechs and insurers with payment processing, policy premium collection, and disbursement services.
+
+### Utility Company Support
+**English:** Selcom enables utility providers to collect payments digitally via mobile wallets, bank apps, and Selcom agents.
+
+---
+
+## Compliance and Security
+
+### PCI-DSS Compliance
+**English:** Yes, Selcom is PCI-DSS certified, ensuring secure card processing and data protection.
+
+### Data Protection Methods
+**English:** Selcom uses encryption, tokenization, and secure protocols across all platforms.
+
+### Transaction Limits
+**English:** Transaction limits vary based on your account type and regulatory requirements.
+
+### Transparent Fees
+**English:** Selcom Pesa offers transparent fees, accessible in the Profile section under Selcom Pesa Charges, with no hidden charges.
